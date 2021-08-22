@@ -1,9 +1,9 @@
 {
   "name": "react-native-colors",
   "description": "Material design colors pallet for React Native.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Artur Krol (https://github.com/kroolar)",
-  "repository": "doowb/ansi-colors",
+  "repository": "https://github.com/kroolar/react-native-colors",
   "license": "MIT",
   "files": ["index.js"],
   "main": "index.js",
